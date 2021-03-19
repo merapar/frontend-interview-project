@@ -1,0 +1,16 @@
+{
+  "name": "merapar-interview-project",
+  "version": "1.0.0",
+  "description": "Interview project for Merapar frontend candidates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "merapar",
+    "interview",
+    "frontend"
+  ],
+  "author": "Merapar",
+  "license": "ISC"
+}
