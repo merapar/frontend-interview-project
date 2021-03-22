@@ -18,12 +18,14 @@ variance in response time of real server requests._
 All API mocks can be found in [this file.](./src/data/index.js)
 
 ## Your task
-- Display the list of posts with their authors and commenter's. You can use following wireframes as reference
-  
+- Display the list of posts with their authors and number of comments
+- Add possibility to see all comments for selected post sorted by date
+- You can use following wireframe as reference
+
 ![Posts wireframe](./wireframe.png)
 
-- Focus on performance and efficiency.
-- Your solution should be written using frameworks and tools you are comfortable with and suitable for a production environment.
+- Focus on performance and efficiency
+- Your solution should be written using frameworks and tools you are comfortable with and suitable for a production environment
 
 
 # Happy coding!
