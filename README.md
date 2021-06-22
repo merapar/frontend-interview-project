@@ -25,7 +25,7 @@ All API mocks can be found in [this file.](./src/data/index.js)
 ![Posts wireframe](./wireframe.png)
 
 - Focus on performance and efficiency
-- Your solution should be written using frameworks and tools you are comfortable with and suitable for a production environment
+- Your solution should be written using vanilla JavaScript (or Typescript, but no frameworks please) and suitable for a production environment
 
 
 # Happy coding!
